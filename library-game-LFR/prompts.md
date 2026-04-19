@@ -452,6 +452,7 @@ The interface should look like a finished professional web game, not a rough pro
 Revisa estos puntos: 1.- no veo la opción de Tangram en el landing page 2.- No veo el botón de volver al Menu en el Memory Game 3.- En el Memory Game se superpone la fila final al pie de firma; no debería 4.- No están centrdos los botnones de la parte superior del Memory Game; centralos como el resto
 
 =================
+
 revisa estos temas visuales: 1.- landing page se solapan los botones y el recuadro que los contiene 2.- en memoty game pon los botones de Menu y de Restart como en tetris; uno a la izquierda y otro a la derecha 3.- Cuando hay muchas tarjetas la ultima fila se muestra encima del texto New Game. Find all matching pairs; no debe solaparse; este texto debe estar debajo 4.- se montan los elementos de la pantalla e tetris No deben solaparse 5.- No funciona el botón de Menu de tangram; debe volver al menu
 
 Voy a trabajar sobre el último ZIP corregido y ajustar el layout de las tres pantallas, no solo cambiar posiciones puntuales. También revisaré que el botón Menu de Tangram realmente llame a la escena del landing.
