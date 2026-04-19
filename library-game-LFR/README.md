@@ -11,7 +11,7 @@ Reusable browser game library built with **Phaser + TypeScript + Vite**.
 - Tetris: classic 10x20 board, next/hold/ghost piece, levels, score and keyboard/touch controls.
 ![Tetris]("/library-game-LFR/Tetris.jpg")
 - Tangram: seven classic pieces, draggable/rotatable pieces, help guide, reset, next figure, collision correction and responsive three-section layout.
-![Tangram]("Tangram.jpg")
+![Tangram]("./Tangram.jpg")
 
 ## Shared navigation
 
