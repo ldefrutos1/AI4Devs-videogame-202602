@@ -13,6 +13,15 @@ Reusable browser game library built with **Phaser + TypeScript + Vite**.
 - Tangram: seven classic pieces, draggable/rotatable pieces, help guide, reset, next figure, collision correction and responsive three-section layout.
 ![Tangram](Tangram.jpg)
 
+## Comentario
+
+Comentario de ChatGPT cunado se le pidió usado para Tangram:
+
+
+```text
+
+En resumen: el prompt era completo en intención, pero demasiado abierto en assets, geometría, interacción exacta y criterios verificables. Para Tangram, la clave era haber definido desde el principio las plantillas reales y el comportamiento exacto de Help, Target, selección, rotación y flip.
+
 ## Shared navigation
 
 The project starts on the landing page. Each game has a Menu button to return to the landing page.
@@ -66,14 +75,6 @@ http://localhost:5173
 ```bash
 npm run build
 ```
-## Comentario
-
-Comentario de ChatGPT cunado se le pidió usado para Tangram:
-
-
-```text
-
-En resumen: el prompt era completo en intención, pero demasiado abierto en assets, geometría, interacción exacta y criterios verificables. Para Tangram, la clave era haber definido desde el principio las plantillas reales y el comportamiento exacto de Help, Target, selección, rotación y flip.
 
 ```
 
