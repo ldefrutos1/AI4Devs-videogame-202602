@@ -20,7 +20,7 @@ Use Phaser + TypeScript + Vite and this structure for reuse in the three final g
     AssetLoader.js
     GameSceneBase.js 
 	
-
+```text
 ##Functional requirements
 ###Game board
 The game displays a grid of face-down cards.
@@ -183,8 +183,10 @@ Show where the current piece will land.
 ###Themes
 Allow different colors or visual styles for the board and pieces.
 
+```
 ## 3 Tangram ##
 
+```text
 #Create a Tangram puzzle game with a professional, modern, polished, and responsive design.
 
 The objective of the game is for the user to recreate a proposed Tangram figure by moving, rotating, and placing the Tangram pieces manually.
@@ -444,7 +446,7 @@ Fast user interactions should not cause pieces to overlap or leave the playable 
 The game should feel smooth and stable.
 The final result must be well fitted on the screen and must not overlap the footer.
 The interface should look like a finished professional web game, not a rough prototype.
-
+```
 =================
 
 Revisa estos puntos: 1.- no veo la opción de Tangram en el landing page 2.- No veo el botón de volver al Menu en el Memory Game 3.- En el Memory Game se superpone la fila final al pie de firma; no debería 4.- No están centrdos los botnones de la parte superior del Memory Game; centralos como el resto
@@ -466,7 +468,7 @@ Las formas de tangam no tienen derechos de autor; de todas formas te paso una we
 ## 4 Revisión del prompt ##
 Una vez que tenemos el desarrollo, estoy interesado en mejorar el proceso y los prompt. En la funcionalidad del tangram hemos tenido que ajustar varias cosas; te voy a pasar de nuevo el prompt original y quiero que actúes como el LLM que ha ejecutado el prompt y lo analices buscando puntos de corrección o mejora; después te pediré un prompt mejorado para la funcionalidad que nos hubiera permitido generar el código en menos tiempo y con mayor calidad. Pregúntame si tienes alguna duda.
 
-
+```text
 
 Puntos clave de mejora del prompt:
 
@@ -501,12 +503,12 @@ No protegía funcionalidades existentes
 Debía decir explícitamente: “No modificar Memory/Tetris salvo navegación común; ejecutar build; mantener landing funcionando”.
 
 En resumen: el prompt era completo en intención, pero demasiado abierto en assets, geometría, interacción exacta y criterios verificables. Para Tangram, la clave era haber definido desde el principio las plantillas reales y el comportamiento exacto de Help, Target, selección, rotación y flip.
-
+```
 ## 5 Prompt mejorado ##
 
 
 Preparame el promt mejorado que te hubiera gustado tener
-
+```text
 You are an expert Phaser + TypeScript + Vite game developer.
 
 We already have a Phaser game library with:
@@ -849,3 +851,5 @@ Before delivering, verify:
 18. Memory game still works.
 19. Tetris game still works.
 20. Nothing overlaps the footer.
+
+```
