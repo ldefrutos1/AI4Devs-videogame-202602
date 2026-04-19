@@ -2,16 +2,16 @@
 
 Reusable browser game library built with **Phaser + TypeScript + Vite**.
 
-![Landing page]("Game Library.jpg")
+![Landing page](Game Library.jpg)
 
 ## Games included
 
 - Memory Game: card matching with moves, timer, themes, difficulty and best score.
 ![Memory Game](Memory.jpg)
 - Tetris: classic 10x20 board, next/hold/ghost piece, levels, score and keyboard/touch controls.
-![Tetris]("/library-game-LFR/Tetris.jpg")
+![Tetris](Tetris.jpg)
 - Tangram: seven classic pieces, draggable/rotatable pieces, help guide, reset, next figure, collision correction and responsive three-section layout.
-![Tangram]("./Tangram.jpg")
+![Tangram](Tangram.jpg)
 
 ## Shared navigation
 
