@@ -15,12 +15,14 @@ Reusable browser game library built with **Phaser + TypeScript + Vite**.
 
 ## Comentario
 
-Comentario de ChatGPT cunado se le pidió usado para Tangram:
-
+Se pidió a ChatGPT que revisara el prompt empleado en la funcionalidad de Tangram y que elaborara la versión del prompt que debería haberse usado; este es su análisis del prompt original:
 
 ```text
-
 En resumen: el prompt era completo en intención, pero demasiado abierto en assets, geometría, interacción exacta y criterios verificables. Para Tangram, la clave era haber definido desde el principio las plantillas reales y el comportamiento exacto de Help, Target, selección, rotación y flip.
+```
+
+El prompt sugerido por ChatGPT se incluye junto con el resto de prompts.:
+
 
 ## Shared navigation
 
@@ -76,5 +78,5 @@ http://localhost:5173
 npm run build
 ```
 
-```
+
 
