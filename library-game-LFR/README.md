@@ -2,7 +2,7 @@
 
 Reusable browser game library built with **Phaser + TypeScript + Vite**.
 
-![Landing page](Game Library.jpg)
+![Landing page](Game%20Library.jpg)
 
 ## Games included
 
